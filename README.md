@@ -42,7 +42,7 @@ Update .env with the absolute path to the database file (relative paths may not 
 Right-click on database\sqlite\database.sqlite in File Explorer, select "Copy as path", and paste it into .env as:
 textDB_CONNECTION=sqlite
 DB_DATABASE=C:\path\to\your\project\svytel-communication-assessment\database\sqlite\database.sqlite
-Example: DB_DATABASE=C:\Users\ANKIT\Documents\svytel-communication-assessment\database\sqlite\database.sqlite
+Example: DB_DATABASE=C:\Users\xxxx\xxxx\svytel-communication-assessment\database\sqlite\database.sqlite
 Remove any unnecessary DB settings like DB_HOST, DB_PORT, DB_USERNAME, DB_PASSWORD.
 
 
